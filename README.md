@@ -3,4 +3,4 @@ This is my first git Repository
 <br>
 Author-Manthan verma
 <br>
-sub Author-Ram singh
+sub Author-Ram singh/ram lal
